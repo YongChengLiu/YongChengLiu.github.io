@@ -16,7 +16,7 @@
 # baseurl: /
 title: YongCheng's blog
 description: > #this means to ignore newlines until "nav_lists:"
-  Yongcheng's Blog
+  YongCheng's Blog
 
 nav_lists:
   - titles:
